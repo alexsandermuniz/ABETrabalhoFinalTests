@@ -1,0 +1,14 @@
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\bin\Debug\netcoreapp2.1\XUnitTestMarket.deps.json
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\bin\Debug\netcoreapp2.1\XUnitTestMarket.runtimeconfig.json
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\bin\Debug\netcoreapp2.1\XUnitTestMarket.runtimeconfig.dev.json
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\bin\Debug\netcoreapp2.1\XUnitTestMarket.dll
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\bin\Debug\netcoreapp2.1\XUnitTestMarket.pdb
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\obj\Debug\netcoreapp2.1\XUnitTestMarket.csprojAssemblyReference.cache
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\obj\Debug\netcoreapp2.1\XUnitTestMarket.csproj.CoreCompileInputs.cache
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\obj\Debug\netcoreapp2.1\XUnitTestMarket.AssemblyInfoInputs.cache
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\obj\Debug\netcoreapp2.1\XUnitTestMarket.AssemblyInfo.cs
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\obj\Debug\netcoreapp2.1\XUnitTestMarket.dll
+C:\Users\Alexsander Muniz\source\repos\ABETrabalhoFinalUnityTest\XUnitTestMarket\XUnitTestMarket\obj\Debug\netcoreapp2.1\XUnitTestMarket.pdb
